@@ -1,0 +1,7 @@
+Flask
+azure-cognitiveservices-speech==1.24.0
+openai==0.27.8
+textblob==0.17.1
+vaderSentiment==3.3.2
+Werkzeug==2.3.6
+gunicorn # Optional: For deploying Flask apps in production
